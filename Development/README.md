@@ -1,9 +1,8 @@
 # ParkMyPoseidon
-Repo for Design and Development of PMP game.
 
-Team :
-Abhilash Suryanarayan - Game Designer
-Sharavan - Game Artist
-Sharatchandra Aithal - Game Programmer
+All Development related Documents will be placed in this directory
+
+Source Diectory will contain the latest code base 
+and Backups will be placed to roll back to if necessary
 
 
